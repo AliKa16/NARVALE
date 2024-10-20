@@ -1,0 +1,301 @@
+ID,Education,JoiningYear,City,Age,ExperienceInCurrentDomain,PersonalityType,SoftSkill,HardSkills
+1,Bachelors,2017,Bangalore,34,0,6,"['Networking', 'Collaboration', 'Leadership']",Java
+2,Bachelors,2013,Pune,28,3,5,"['Team management', 'Decision-making', 'Time management', 'Conflict management', 'Critical assessment skills']",Ruby
+3,Bachelors,2014,New Delhi,38,2,7,"['Negotiation', 'Team management', 'Teamwork', 'Project management']","Ruby, Django"
+4,Masters,2016,Bangalore,27,5,3,"['Assertiveness', 'Teamwork', 'Negotiation', 'Presentation skills']",##L
+5,Masters,2017,Pune,24,2,1,"['Strategic thinking', 'Collaboration', 'Presentation skills', 'Teamwork']","C #, Djan"
+6,Bachelors,2016,Bangalore,22,0,6,"['Decision-making', 'Project management', 'Time management']",Ruby
+7,Bachelors,2015,New Delhi,38,0,4,"['Networking', 'Leadership', 'Persuasion', 'Interpersonal communication']",JavaScript
+8,Bachelors,2016,Bangalore,34,2,4,"['Organization', 'Empathy', 'Decision-making', 'Assertiveness']",JavaScript
+9,Bachelors,2016,Pune,23,1,7,"['Assertiveness', 'Networking', 'Organization', 'Ability to work in a diverse environment', 'Presentation skills', 'Time management']",Ruby
+10,Masters,2017,New Delhi,37,2,8,"['Listening skills', 'Change management', 'Strategic thinking', 'Empathy']","Java, Django"
+11,Masters,2012,Bangalore,27,5,8,"['Presentation skills', 'Creativity', 'Flexibility', 'Leadership']",Java
+12,Bachelors,2016,Pune,34,3,7,"['Team management', 'Problem-solving', 'Empathy', 'Negotiation', 'Networking']",Python
+13,Bachelors,2018,Pune,32,5,3,"['Organization', 'Collaboration', 'Negotiation', 'Interpersonal communication', 'Teamwork', 'Stress management']","JavaScript, Ruby on Rails"
+14,Bachelors,2016,Bangalore,39,2,7,"['Critical thinking', 'Interpersonal communication', 'Presentation skills', 'Project management']",##TML
+15,Bachelors,2012,Bangalore,37,4,5,"['Time management', 'Assertiveness', 'Creativity', 'Adaptability to change', 'Stress management', 'Flexibility']","CS, Ruby on Rails"
+16,Bachelors,2017,Bangalore,29,3,6,"['Risk management', 'Critical thinking', 'Problem-solving']","Java, Spring"
+17,Bachelors,2014,Bangalore,34,2,4,"['Data analysis', 'Stress management', 'Adaptability to change', 'Critical thinking', 'Collaboration']","Ruby, Django"
+18,Bachelors,2014,Pune,34,4,4,"['Project management', 'Collaboration', 'Time management']",PHP
+19,Bachelors,2015,Pune,30,0,8,"['Persuasion', 'Critical thinking', 'Strategic thinking']","JavaScript, Django"
+20,Bachelors,2016,New Delhi,22,0,2,"['Problem-solving', 'Risk management', 'Flexibility', 'Data analysis', 'Conflict management', 'Teamwork']",Java
+21,Bachelors,2012,Bangalore,37,0,6,"['Decision-making', 'Creativity', 'Problem-solving', 'Project management', 'Interpersonal communication']","Python, Angular"
+22,Masters,2017,New Delhi,28,4,1,"['Organization', 'Teamwork', 'Empathy', 'Motivation', 'Change management']",PHP
+23,Bachelors,2017,New Delhi,36,3,6,"['Problem-solving', 'Emotional intelligence', 'Listening skills', 'Critical assessment skills', 'Assertiveness']","##L, Djan"
+24,Bachelors,2015,Bangalore,27,5,5,"['Motivation', 'Data analysis', 'Collaboration']",Python
+25,Bachelors,2017,Bangalore,29,4,1,"['Organization', 'Motivation', 'Conflict management', 'Problem-solving', 'Presentation skills', 'Risk management']","SQL, Django"
+26,Bachelors,2013,Bangalore,22,0,5,"['Team management', 'Change management', 'Interpersonal communication', 'Conflict management']",SQL
+27,Bachelors,2016,Bangalore,37,2,1,"['Motivation', 'Assertiveness', 'Ability to work in a diverse environment', 'Adaptability to change', 'Interpersonal communication']",Ruby
+28,Bachelors,2015,Bangalore,23,1,5,"['Risk management', 'Flexibility', 'Team management', 'Critical thinking']",
+29,Bachelors,2013,Pune,31,2,4,"['Emotional intelligence', 'Collaboration', 'Persuasion', 'Project management', 'Negotiation', 'Presentation skills']","SQL, Django"
+30,Masters,2017,New Delhi,30,2,7,"['Ability to work in a diverse environment', 'Presentation skills', 'Project management', 'Strategic thinking']",JavaScript
+31,PHD,2013,New Delhi,25,3,4,"['Persuasion', 'Time management', 'Listening skills', 'Presentation skills', 'Conflict management', 'Risk management']","C #, Djan"
+32,Bachelors,2014,Bangalore,23,1,7,"['Flexibility', 'Motivation', 'Data analysis', 'Risk management', 'Teamwork']",D
+33,Bachelors,2018,Bangalore,26,4,5,"['Strategic thinking', 'Ability to work in a diverse environment', 'Teamwork', 'Change management']",Java
+34,Bachelors,2016,Bangalore,40,5,6,"['Listening skills', 'Risk management', 'Adaptability to change', 'Project management']","Python, Spring"
+35,Bachelors,2017,Pune,37,0,1,"['Motivation', 'Persuasion', 'Data analysis', 'Teamwork']",Ruby on Rails
+36,Bachelors,2014,Bangalore,30,3,7,"['Adaptability to change', 'Motivation', 'Critical thinking', 'Problem-solving']","Java, Ruby on Rails"
+37,Bachelors,2012,New Delhi,29,3,7,"['Ability to work in a diverse environment', 'Collaboration', 'Presentation skills']",SQL
+38,Bachelors,2018,New Delhi,34,0,3,"['Leadership', 'Time management', 'Stress management', 'Critical thinking', 'Risk management', 'Conflict management']",##TML
+39,Bachelors,2017,Pune,29,2,1,"['Leadership', 'Networking', 'Emotional intelligence', 'Flexibility', 'Listening skills']","PHP, Djan"
+40,Bachelors,2014,Pune,30,4,5,"['Emotional intelligence', 'Empathy', 'Presentation skills', 'Project management', 'Networking', 'Conflict management']",PHP
+41,Bachelors,2015,Bangalore,36,1,7,"['Data analysis', 'Critical thinking', 'Empathy', 'Team management']","Java, Angular"
+42,Masters,2017,New Delhi,23,1,2,"['Strategic thinking', 'Problem-solving', 'Team management', 'Motivation', 'Presentation skills']","Python, Ang"
+43,Bachelors,2013,Bangalore,30,3,7,"['Decision-making', 'Persuasion', 'Teamwork', 'Motivation', 'Empathy']",Djan
+44,Bachelors,2014,Bangalore,36,0,1,"['Networking', 'Collaboration', 'Presentation skills', 'Conflict management', 'Teamwork', 'Risk management']","Java, Django"
+45,Bachelors,2015,Pune,39,4,7,"['Emotional intelligence', 'Decision-making', 'Flexibility', 'Interpersonal communication', 'Change management', 'Data analysis']",JavaScript
+46,Bachelors,2014,Bangalore,23,1,7,"['Change management', 'Organization', 'Data analysis', 'Emotional intelligence']",JavaScript
+47,PHD,2012,New Delhi,27,5,6,"['Team management', 'Time management', 'Risk management']",Java
+48,Masters,2013,New Delhi,35,2,7,"['Networking', 'Creativity', 'Leadership']",C #
+49,Masters,2017,New Delhi,34,0,1,"['Conflict management', 'Ability to work in a diverse environment', 'Stress management', 'Team management']","Java, Ang"
+50,Bachelors,2013,Bangalore,30,1,8,"['Collaboration', 'Creativity', 'Leadership', 'Critical thinking', 'Conflict management']",C #
+51,PHD,2017,New Delhi,34,2,5,"['Adaptability to change', 'Empathy', 'Conflict management', 'Persuasion', 'Leadership', 'Networking']",Java
+52,Bachelors,2015,Pune,26,4,7,"['Interpersonal communication', 'Organization', 'Problem-solving', 'Team management']",##L
+53,Bachelors,2016,Bangalore,34,0,4,"['Networking', 'Listening skills', 'Project management', 'Adaptability to change']",PHP
+54,Bachelors,2014,Bangalore,31,5,2,"['Presentation skills', 'Conflict management', 'Problem-solving', 'Critical assessment skills']","Java, Django"
+55,Bachelors,2017,New Delhi,31,5,8,"['Conflict management', 'Presentation skills', 'Empathy', 'Listening skills', 'Negotiation', 'Strategic thinking']",Java
+56,PHD,2013,New Delhi,28,2,2,"['Decision-making', 'Critical assessment skills', 'Project management']",Ruby
+57,Bachelors,2016,Bangalore,38,2,2,"['Team management', 'Problem-solving', 'Collaboration']","Java, Django"
+58,Masters,2014,Pune,39,2,8,"['Risk management', 'Strategic thinking', 'Assertiveness', 'Presentation skills', 'Empathy', 'Data analysis']",Ruby
+59,Bachelors,2013,Pune,32,4,2,"['Flexibility', 'Ability to work in a diverse environment', 'Strategic thinking', 'Decision-making', 'Interpersonal communication']",JavaScript
+60,Masters,2017,Pune,36,2,1,"['Time management', 'Stress management', 'Collaboration', 'Conflict management']","Ruby, Django"
+61,Masters,2013,New Delhi,29,3,5,"['Conflict management', 'Risk management', 'Stress management', 'Teamwork', 'Strategic thinking']",Java
+62,Bachelors,2015,Bangalore,30,5,3,"['Interpersonal communication', 'Creativity', 'Collaboration', 'Decision-making', 'Team management', 'Stress management']",
+63,PHD,2013,Bangalore,25,3,5,"['Conflict management', 'Strategic thinking', 'Time management', 'Creativity', 'Risk management', 'Negotiation']","C #, Spring"
+64,Bachelors,2014,Pune,22,0,4,"['Adaptability to change', 'Problem-solving', 'Risk management', 'Networking', 'Organization', 'Listening skills']","JavaScript, Angular"
+65,Bachelors,2016,Bangalore,34,4,8,"['Flexibility', 'Motivation', 'Decision-making']",Python
+66,Bachelors,2018,Bangalore,40,1,5,"['Ability to work in a diverse environment', 'Risk management', 'Networking', 'Collaboration', 'Leadership']","SQL, Ang"
+67,PHD,2013,Bangalore,26,4,7,"['Organization', 'Negotiation', 'Project management']","Python, Ruby on Rails"
+68,Bachelors,2014,New Delhi,28,0,4,"['Team management', 'Negotiation', 'Assertiveness']",Ruby
+69,Bachelors,2015,Bangalore,24,2,2,"['Negotiation', 'Team management', 'Empathy', 'Teamwork', 'Strategic thinking', 'Ability to work in a diverse environment']",
+70,Masters,2017,Bangalore,40,2,7,"['Project management', 'Conflict management', 'Critical assessment skills', 'Interpersonal communication', 'Teamwork', 'Change management']",
+71,Bachelors,2018,Bangalore,23,1,4,"['Empathy', 'Adaptability to change', 'Interpersonal communication', 'Change management']","PHP, Ruby on Rails"
+72,Masters,2017,Bangalore,31,4,3,"['Listening skills', 'Leadership', 'Persuasion', 'Empathy', 'Stress management']","Java, Django"
+73,Bachelors,2014,Pune,25,3,5,"['Creativity', 'Time management', 'Presentation skills', 'Listening skills']","Java, Spring"
+74,Bachelors,2014,Bangalore,27,5,4,"['Motivation', 'Problem-solving', 'Flexibility', 'Team management', 'Empathy', 'Negotiation']","Java, Spring"
+75,Masters,2017,New Delhi,25,3,3,"['Time management', 'Risk management', 'Critical thinking']","Java, Ruby on Rails"
+76,Bachelors,2015,Bangalore,40,0,3,"['Networking', 'Strategic thinking', 'Problem-solving', 'Change management', 'Conflict management']","C #, Django"
+77,Bachelors,2014,Bangalore,23,1,4,"['Flexibility', 'Teamwork', 'Interpersonal communication', 'Critical thinking', 'Team management', 'Critical assessment skills']","SQL, Django"
+78,Bachelors,2017,Bangalore,23,1,6,"['Motivation', 'Ability to work in a diverse environment', 'Presentation skills', 'Data analysis', 'Stress management', 'Networking']",Java
+79,Bachelors,2012,Bangalore,39,1,7,"['Conflict management', 'Creativity', 'Listening skills', 'Change management']","Java, Ang"
+80,PHD,2015,New Delhi,37,1,7,"['Risk management', 'Conflict management', 'Interpersonal communication', 'Presentation skills', 'Leadership', 'Adaptability to change']","S, Ruby on Rails"
+81,Bachelors,2017,Pune,38,2,8,"['Risk management', 'Flexibility', 'Teamwork', 'Problem-solving', 'Change management']",Java
+82,Bachelors,2013,Bangalore,31,0,5,"['Decision-making', 'Conflict management', 'Collaboration', 'Leadership', 'Data analysis', 'Strategic thinking']",C #
+83,Bachelors,2016,Bangalore,38,5,1,"['Time management', 'Creativity', 'Data analysis', 'Adaptability to change', 'Conflict management']",
+84,Bachelors,2017,Bangalore,25,3,1,"['Adaptability to change', 'Decision-making', 'Flexibility', 'Critical assessment skills', 'Time management']",Ruby
+85,Bachelors,2015,Bangalore,27,5,6,"['Stress management', 'Team management', 'Project management', 'Problem-solving']",PHP
+86,Bachelors,2016,Pune,36,0,4,"['Adaptability to change', 'Decision-making', 'Data analysis', 'Presentation skills', 'Strategic thinking', 'Organization']","Ruby, Django"
+87,Bachelors,2017,Pune,27,5,3,"['Assertiveness', 'Collaboration', 'Organization', 'Negotiation', 'Persuasion', 'Critical assessment skills']","Python, Ruby on Rails"
+88,Masters,2015,Pune,32,4,4,"['Collaboration', 'Organization', 'Flexibility']","JavaScript, Django"
+89,Bachelors,2014,Bangalore,28,4,5,"['Presentation skills', 'Networking', 'Listening skills', 'Critical assessment skills', 'Team management']","JavaScript, Django"
+90,Masters,2012,New Delhi,32,2,4,"['Persuasion', 'Presentation skills', 'Assertiveness', 'Listening skills', 'Data analysis', 'Conflict management']",Java
+91,Bachelors,2018,Bangalore,30,0,6,"['Motivation', 'Critical assessment skills', 'Listening skills', 'Persuasion', 'Empathy']","Python, Angular"
+92,Bachelors,2015,New Delhi,22,0,5,"['Critical assessment skills', 'Time management', 'Change management', 'Adaptability to change']","JavaScript, Ruby on Rails"
+93,Bachelors,2017,New Delhi,34,5,7,"['Data analysis', 'Change management', 'Leadership', 'Motivation']",##L
+94,Masters,2013,New Delhi,36,2,5,"['Stress management', 'Team management', 'Interpersonal communication', 'Strategic thinking', 'Persuasion']",Java
+95,Bachelors,2014,Bangalore,39,3,6,"['Flexibility', 'Persuasion', 'Collaboration', 'Leadership']",PHP
+96,PHD,2018,Bangalore,26,4,8,"['Motivation', 'Negotiation', 'Strategic thinking', 'Teamwork']",Java
+97,Bachelors,2016,Bangalore,31,0,7,"['Empathy', 'Organization', 'Teamwork']",PHP
+98,Bachelors,2014,Bangalore,27,5,1,"['Persuasion', 'Decision-making', 'Creativity', 'Negotiation']",Ruby
+99,Bachelors,2014,Bangalore,29,0,3,"['Creativity', 'Change management', 'Critical assessment skills']","##L, Djan"
+100,Bachelors,2015,Bangalore,24,2,8,"['Team management', 'Interpersonal communication', 'Empathy', 'Emotional intelligence', 'Adaptability to change']",SQL
+101,Masters,2012,Pune,25,3,2,"['Organization', 'Team management', 'Assertiveness', 'Decision-making', 'Risk management']","Java, Ang"
+102,Bachelors,2013,Pune,25,3,7,"['Problem-solving', 'Organization', 'Interpersonal communication', 'Critical assessment skills', 'Emotional intelligence']",PHP
+103,Masters,2017,New Delhi,26,4,5,"['Emotional intelligence', 'Adaptability to change', 'Flexibility']",Java
+104,Bachelors,2015,Pune,28,1,6,"['Networking', 'Leadership', 'Flexibility', 'Collaboration', 'Team management']",Ang
+105,Bachelors,2017,New Delhi,28,2,3,"['Assertiveness', 'Listening skills', 'Strategic thinking', 'Data analysis', 'Stress management']","Ruby, Spring"
+106,Masters,2015,Pune,28,3,8,"['Flexibility', 'Assertiveness', 'Project management', 'Critical thinking']",PHP
+107,Masters,2015,New Delhi,25,3,5,"['Negotiation', 'Change management', 'Teamwork']","Ruby, Ruby on Rails"
+108,Bachelors,2017,Bangalore,28,1,3,"['Adaptability to change', 'Assertiveness', 'Data analysis', 'Organization', 'Collaboration']",##L
+109,Masters,2013,Pune,25,3,4,"['Teamwork', 'Listening skills', 'Assertiveness']",CS
+110,Bachelors,2015,Bangalore,25,3,1,"['Organization', 'Team management', 'Presentation skills', 'Teamwork', 'Negotiation']",PHP
+111,Bachelors,2015,Bangalore,27,5,5,"['Presentation skills', 'Critical assessment skills', 'Change management', 'Data analysis', 'Flexibility']","CS, Ang"
+112,Bachelors,2017,Pune,27,5,1,"['Ability to work in a diverse environment', 'Team management', 'Stress management', 'Change management', 'Flexibility', 'Critical assessment skills']",CS
+113,Bachelors,2013,Bangalore,27,5,3,"['Empathy', 'Persuasion', 'Assertiveness', 'Emotional intelligence', 'Interpersonal communication']",Python
+114,Bachelors,2012,Bangalore,25,3,7,"['Networking', 'Decision-making', 'Listening skills', 'Creativity']",##TML
+115,Masters,2017,New Delhi,28,2,3,"['Team management', 'Empathy', 'Critical thinking', 'Change management', 'Networking', 'Negotiation']",Java
+116,Bachelors,2014,Pune,26,4,5,"['Adaptability to change', 'Negotiation', 'Empathy', 'Motivation', 'Critical thinking']",Python
+117,Bachelors,2015,Bangalore,28,2,3,"['Motivation', 'Change management', 'Decision-making', 'Flexibility', 'Emotional intelligence']","SQL, Ruby on Rails"
+118,Masters,2013,New Delhi,26,4,4,"['Listening skills', 'Ability to work in a diverse environment', 'Interpersonal communication', 'Motivation', 'Organization', 'Problem-solving']",C #
+119,Bachelors,2017,Bangalore,26,4,8,"['Team management', 'Risk management', 'Project management', 'Conflict management']","SQL, Ruby on Rails"
+120,Bachelors,2017,New Delhi,25,3,8,"['Critical assessment skills', 'Presentation skills', 'Time management']","Java, Spring"
+121,Bachelors,2012,Bangalore,28,3,5,"['Change management', 'Networking', 'Data analysis', 'Ability to work in a diverse environment']",Ruby
+122,PHD,2015,New Delhi,26,4,5,"['Change management', 'Empathy', 'Critical thinking', 'Assertiveness', 'Persuasion']","C #, D"
+123,Bachelors,2015,New Delhi,25,3,5,"['Project management', 'Time management', 'Assertiveness', 'Risk management']","Python, Django"
+124,Bachelors,2012,Bangalore,26,4,6,"['Risk management', 'Flexibility', 'Interpersonal communication', 'Ability to work in a diverse environment', 'Time management', 'Project management']","##L, Angular"
+125,Bachelors,2014,Bangalore,28,3,7,"['Collaboration', 'Motivation', 'Assertiveness', 'Critical assessment skills', 'Flexibility', 'Critical thinking']",Ruby
+126,Masters,2014,Pune,24,2,7,"['Creativity', 'Decision-making', 'Project management', 'Adaptability to change', 'Teamwork', 'Leadership']",JavaScript
+127,Bachelors,2013,Bangalore,28,1,3,"['Interpersonal communication', 'Networking', 'Listening skills']","C #, Ang"
+128,Bachelors,2015,Pune,27,5,2,"['Change management', 'Critical thinking', 'Data analysis', 'Motivation', 'Leadership']",S
+129,Bachelors,2018,Bangalore,25,3,4,"['Persuasion', 'Critical thinking', 'Motivation', 'Project management', 'Ability to work in a diverse environment', 'Leadership']","CS, Ruby on Rails"
+130,Masters,2013,Pune,24,2,4,"['Time management', 'Critical thinking', 'Change management', 'Assertiveness']",C #
+131,Bachelors,2017,Bangalore,26,4,7,"['Empathy', 'Critical assessment skills', 'Persuasion', 'Risk management']",Ruby
+132,Bachelors,2013,Bangalore,28,1,2,"['Interpersonal communication', 'Decision-making', 'Assertiveness']",PHP
+133,Masters,2016,New Delhi,27,5,3,"['Collaboration', 'Listening skills', 'Decision-making', 'Empathy', 'Critical assessment skills']",Python
+134,Masters,2017,Bangalore,26,4,5,"['Ability to work in a diverse environment', 'Listening skills', 'Creativity', 'Team management', 'Decision-making']",C #
+135,Masters,2017,New Delhi,24,2,1,"['Listening skills', 'Decision-making', 'Empathy', 'Strategic thinking', 'Negotiation']",PHP
+136,Masters,2018,New Delhi,26,4,1,"['Time management', 'Networking', 'Assertiveness', 'Strategic thinking', 'Presentation skills']","Python, Ang"
+137,Masters,2017,New Delhi,25,3,7,"['Emotional intelligence', 'Leadership', 'Project management', 'Time management', 'Presentation skills', 'Assertiveness']","Ruby, Django"
+138,Bachelors,2012,Pune,28,2,8,"['Networking', 'Emotional intelligence', 'Team management', 'Project management', 'Negotiation', 'Risk management']","##TML, Ang"
+139,Bachelors,2017,New Delhi,28,2,1,"['Negotiation', 'Adaptability to change', 'Project management', 'Data analysis', 'Interpersonal communication']",Ruby
+140,Bachelors,2013,Bangalore,26,4,7,"['Teamwork', 'Leadership', 'Creativity', 'Interpersonal communication']",S
+141,Masters,2013,New Delhi,27,5,6,"['Flexibility', 'Decision-making', 'Time management']","Java, Ruby on Rails"
+142,Bachelors,2017,Pune,24,2,3,"['Risk management', 'Teamwork', 'Decision-making', 'Persuasion', 'Team management', 'Collaboration']","Python, Django"
+143,Bachelors,2017,New Delhi,28,2,6,"['Ability to work in a diverse environment', 'Flexibility', 'Problem-solving']",Python
+144,Bachelors,2016,Bangalore,26,4,3,"['Interpersonal communication', 'Project management', 'Networking', 'Presentation skills', 'Problem-solving', 'Data analysis']","C #, Ruby on Rails"
+145,Bachelors,2013,Bangalore,27,5,5,"['Data analysis', 'Critical thinking', 'Ability to work in a diverse environment']","##TML, Ruby on Rails"
+146,Masters,2015,Pune,28,3,5,"['Presentation skills', 'Decision-making', 'Listening skills', 'Organization', 'Negotiation', 'Emotional intelligence']",
+147,Bachelors,2014,Bangalore,25,3,6,"['Leadership', 'Flexibility', 'Ability to work in a diverse environment', 'Teamwork', 'Empathy', 'Decision-making']",D
+148,Bachelors,2016,Pune,28,1,7,"['Project management', 'Risk management', 'Critical thinking']",Ruby
+149,Masters,2013,Bangalore,25,3,3,"['Assertiveness', 'Strategic thinking', 'Stress management', 'Critical assessment skills', 'Organization', 'Creativity']",S
+150,Bachelors,2015,Pune,26,4,5,"['Team management', 'Empathy', 'Organization', 'Assertiveness']",Java
+151,Bachelors,2018,New Delhi,27,5,8,"['Risk management', 'Flexibility', 'Adaptability to change', 'Networking', 'Project management']",Java
+152,Bachelors,2016,Bangalore,24,2,3,"['Listening skills', 'Creativity', 'Ability to work in a diverse environment']","CS, Ruby on Rails"
+153,Bachelors,2012,Pune,24,2,1,"['Emotional intelligence', 'Assertiveness', 'Listening skills']",PHP
+154,Bachelors,2014,Bangalore,26,4,7,"['Listening skills', 'Problem-solving', 'Flexibility', 'Empathy']",Ruby
+155,Bachelors,2016,Pune,24,2,6,"['Teamwork', 'Collaboration', 'Persuasion']","Ruby, Django"
+156,Masters,2012,New Delhi,26,4,5,"['Negotiation', 'Emotional intelligence', 'Team management', 'Problem-solving', 'Time management', 'Change management']",Python
+157,Bachelors,2013,Bangalore,28,3,6,"['Leadership', 'Collaboration', 'Stress management', 'Networking', 'Team management']",C #
+158,Bachelors,2012,Bangalore,24,2,3,"['Ability to work in a diverse environment', 'Change management', 'Assertiveness', 'Strategic thinking', 'Presentation skills']","C #, Ruby on Rails"
+159,Bachelors,2015,Bangalore,25,3,6,"['Strategic thinking', 'Team management', 'Assertiveness']",Ruby
+160,Bachelors,2016,Bangalore,28,3,1,"['Flexibility', 'Leadership', 'Critical assessment skills', 'Team management', 'Decision-making', 'Data analysis']",PHP
+161,Bachelors,2014,Bangalore,28,3,2,"['Flexibility', 'Organization', 'Conflict management', 'Motivation', 'Critical thinking', 'Teamwork']",
+162,Bachelors,2013,Bangalore,26,4,6,"['Teamwork', 'Decision-making', 'Organization', 'Empathy', 'Networking']","PHP, D"
+163,Masters,2017,New Delhi,24,2,4,"['Empathy', 'Strategic thinking', 'Emotional intelligence', 'Organization', 'Conflict management']","Java, Django"
+164,Bachelors,2016,Bangalore,25,3,6,"['Adaptability to change', 'Critical assessment skills', 'Listening skills', 'Stress management', 'Decision-making', 'Collaboration']",Python
+165,Bachelors,2015,Bangalore,25,3,3,"['Organization', 'Critical assessment skills', 'Risk management', 'Creativity', 'Teamwork']","C #, Ruby on Rails"
+166,Bachelors,2014,Bangalore,27,5,5,"['Change management', 'Strategic thinking', 'Project management', 'Problem-solving', 'Stress management']","JavaScript, Django"
+167,Bachelors,2012,Bangalore,24,2,8,"['Time management', 'Creativity', 'Flexibility', 'Collaboration', 'Presentation skills', 'Networking']","Ruby, Ruby on Rails"
+168,Bachelors,2014,Bangalore,25,3,6,"['Organization', 'Critical thinking', 'Presentation skills', 'Team management', 'Project management']",CS
+169,Bachelors,2015,Bangalore,28,3,5,"['Data analysis', 'Teamwork', 'Negotiation', 'Organization', 'Collaboration']","Java, Spring"
+170,Masters,2015,New Delhi,26,4,3,"['Change management', 'Adaptability to change', 'Decision-making', 'Team management', 'Persuasion', 'Strategic thinking']","##L, Ang"
+171,Bachelors,2014,New Delhi,28,1,8,"['Strategic thinking', 'Risk management', 'Presentation skills', 'Teamwork', 'Listening skills', 'Ability to work in a diverse environment']","SQL, Spring"
+172,Bachelors,2015,Pune,25,3,5,"['Time management', 'Leadership', 'Project management', 'Negotiation', 'Data analysis']",S
+173,Masters,2015,Pune,28,2,5,"['Networking', 'Strategic thinking', 'Creativity', 'Adaptability to change']","PHP, Ruby on Rails"
+174,Bachelors,2014,Bangalore,27,5,5,"['Data analysis', 'Persuasion', 'Listening skills', 'Negotiation', 'Problem-solving']",##L
+175,Bachelors,2013,Bangalore,26,4,8,"['Networking', 'Strategic thinking', 'Problem-solving']",Ruby
+176,Bachelors,2016,Bangalore,26,4,1,"['Critical assessment skills', 'Flexibility', 'Listening skills']",JavaScript
+177,Bachelors,2012,Bangalore,25,3,6,"['Negotiation', 'Listening skills', 'Problem-solving', 'Creativity', 'Team management']",SQL
+178,Bachelors,2015,Bangalore,25,3,7,"['Adaptability to change', 'Networking', 'Team management', 'Conflict management', 'Risk management']",Ruby on Rails
+179,Bachelors,2014,New Delhi,24,2,7,"['Ability to work in a diverse environment', 'Stress management', 'Negotiation']",
+180,Bachelors,2012,Bangalore,27,5,7,"['Critical thinking', 'Project management', 'Problem-solving', 'Stress management', 'Assertiveness']",##L
+181,Masters,2017,New Delhi,27,5,6,"['Persuasion', 'Empathy', 'Project management', 'Creativity', 'Negotiation']","Java, Spring"
+182,Bachelors,2015,Pune,27,5,4,"['Change management', 'Emotional intelligence', 'Assertiveness', 'Critical thinking']","SQL, Ruby on Rails"
+183,Bachelors,2018,Bangalore,24,2,4,"['Critical assessment skills', 'Decision-making', 'Risk management', 'Networking', 'Persuasion', 'Creativity']","SQL, Ruby on Rails"
+184,Masters,2017,New Delhi,27,5,4,"['Stress management', 'Strategic thinking', 'Presentation skills']",Java
+185,Masters,2017,New Delhi,28,1,5,"['Empathy', 'Decision-making', 'Leadership']",PHP
+186,Masters,2017,Pune,24,2,5,"['Interpersonal communication', 'Decision-making', 'Persuasion', 'Team management', 'Teamwork', 'Organization']",PHP
+187,Masters,2016,New Delhi,25,3,4,"['Stress management', 'Persuasion', 'Critical thinking', 'Motivation', 'Risk management']","Ruby, Ruby on Rails"
+188,PHD,2015,New Delhi,28,1,3,"['Adaptability to change', 'Organization', 'Data analysis', 'Team management', 'Stress management']",SQL
+189,Bachelors,2017,New Delhi,26,4,8,"['Collaboration', 'Conflict management', 'Assertiveness', 'Interpersonal communication']",C #
+190,Bachelors,2013,Bangalore,27,5,7,"['Teamwork', 'Interpersonal communication', 'Motivation', 'Ability to work in a diverse environment', 'Change management', 'Emotional intelligence']",PHP
+191,Bachelors,2015,Bangalore,26,4,1,"['Problem-solving', 'Emotional intelligence', 'Team management', 'Persuasion', 'Critical thinking']",Python
+192,Bachelors,2015,Bangalore,26,4,6,"['Strategic thinking', 'Collaboration', 'Listening skills', 'Project management', 'Negotiation', 'Change management']",C #
+193,Bachelors,2013,Bangalore,28,1,6,"['Leadership', 'Data analysis', 'Teamwork', 'Listening skills', 'Stress management']",Ruby
+194,Bachelors,2015,Bangalore,27,5,5,"['Persuasion', 'Project management', 'Ability to work in a diverse environment', 'Motivation', 'Teamwork', 'Negotiation']",Ruby
+195,Bachelors,2013,New Delhi,25,3,2,"['Risk management', 'Presentation skills', 'Stress management', 'Critical thinking', 'Organization', 'Negotiation']","Ruby, Ruby on Rails"
+196,Bachelors,2013,Pune,28,1,8,"['Motivation', 'Risk management', 'Change management', 'Critical thinking', 'Flexibility', 'Organization']",##TML
+197,Bachelors,2017,Pune,24,2,7,"['Presentation skills', 'Emotional intelligence', 'Teamwork']",Ruby
+198,Bachelors,2013,New Delhi,27,5,6,"['Data analysis', 'Interpersonal communication', 'Ability to work in a diverse environment']","CS, Ruby on Rails"
+199,Bachelors,2015,Bangalore,28,2,6,"['Networking', 'Listening skills', 'Decision-making', 'Project management', 'Team management', 'Ability to work in a diverse environment']","Python, Ruby on Rails"
+200,Bachelors,2015,Pune,28,3,6,"['Problem-solving', 'Teamwork', 'Critical thinking', 'Assertiveness']",Ruby
+201,Bachelors,2014,Pune,25,3,3,"['Conflict management', 'Teamwork', 'Risk management', 'Collaboration', 'Empathy', 'Ability to work in a diverse environment']","JavaScript, Spring"
+202,Bachelors,2014,Bangalore,25,3,2,"['Decision-making', 'Problem-solving', 'Data analysis', 'Listening skills', 'Negotiation']",Java
+203,Bachelors,2017,Bangalore,27,5,6,"['Negotiation', 'Critical assessment skills', 'Interpersonal communication', 'Stress management', 'Risk management']","SQL, Ang"
+204,Bachelors,2014,Pune,26,4,8,"['Organization', 'Listening skills', 'Team management', 'Collaboration', 'Motivation']",
+205,PHD,2013,New Delhi,24,2,2,"['Leadership', 'Assertiveness', 'Teamwork', 'Ability to work in a diverse environment', 'Conflict management']",Python
+206,Bachelors,2015,Pune,26,4,8,"['Emotional intelligence', 'Negotiation', 'Leadership', 'Collaboration']","Python, Ang"
+207,Bachelors,2017,Bangalore,25,3,7,"['Data analysis', 'Adaptability to change', 'Change management', 'Conflict management', 'Stress management', 'Organization']",
+208,Masters,2013,Pune,27,5,5,"['Teamwork', 'Presentation skills', 'Data analysis']","PHP, D"
+209,Masters,2017,Bangalore,28,2,3,"['Strategic thinking', 'Stress management', 'Decision-making', 'Teamwork', 'Presentation skills', 'Problem-solving']",
+210,Bachelors,2012,Bangalore,25,3,6,"['Persuasion', 'Ability to work in a diverse environment', 'Strategic thinking', 'Empathy']",C #
+211,Bachelors,2017,Bangalore,27,5,3,"['Critical thinking', 'Organization', 'Emotional intelligence', 'Problem-solving']","PHP, Ruby on Rails"
+212,Masters,2017,Pune,27,5,8,"['Networking', 'Decision-making', 'Assertiveness']",C #
+213,Masters,2013,Bangalore,28,2,1,"['Flexibility', 'Conflict management', 'Risk management', 'Negotiation', 'Team management', 'Stress management']",Ang
+214,Masters,2017,Pune,28,1,8,"['Time management', 'Emotional intelligence', 'Flexibility']","PHP, Ang"
+215,Bachelors,2018,Bangalore,27,5,8,"['Change management', 'Critical thinking', 'Problem-solving', 'Team management', 'Organization']","C #, Ang"
+216,Bachelors,2014,New Delhi,25,3,8,"['Strategic thinking', 'Decision-making', 'Listening skills', 'Problem-solving', 'Critical assessment skills']","Python, Ruby on Rails"
+217,Masters,2017,New Delhi,27,5,8,"['Listening skills', 'Emotional intelligence', 'Flexibility', 'Critical assessment skills']","##TML, Ruby on Rails"
+218,Masters,2013,New Delhi,26,4,2,"['Change management', 'Strategic thinking', 'Collaboration', 'Motivation', 'Negotiation', 'Conflict management']","Ruby, Django"
+219,Bachelors,2013,Pune,25,3,2,"['Teamwork', 'Change management', 'Time management', 'Team management', 'Persuasion', 'Negotiation']",C #
+220,Masters,2012,New Delhi,26,4,4,"['Assertiveness', 'Creativity', 'Conflict management']","Ruby, Ruby on Rails"
+221,Bachelors,2016,Bangalore,25,3,7,"['Stress management', 'Conflict management', 'Team management', 'Organization']",
+222,Bachelors,2013,Pune,26,4,6,"['Team management', 'Critical thinking', 'Strategic thinking']",JavaScript
+223,Bachelors,2018,Bangalore,28,2,1,"['Conflict management', 'Stress management', 'Listening skills', 'Motivation', 'Networking']","Python, Django"
+224,Bachelors,2013,Bangalore,27,5,7,"['Leadership', 'Risk management', 'Collaboration']",SQL
+225,Bachelors,2015,Pune,24,2,4,"['Problem-solving', 'Adaptability to change', 'Motivation']","JavaScript, Angular"
+226,Bachelors,2013,Pune,28,2,3,"['Ability to work in a diverse environment', 'Negotiation', 'Leadership', 'Listening skills']","PHP, Ruby on Rails"
+227,Bachelors,2015,Pune,27,5,4,"['Data analysis', 'Team management', 'Ability to work in a diverse environment']",C #
+228,Bachelors,2018,Bangalore,25,3,4,"['Conflict management', 'Creativity', 'Team management', 'Teamwork']",PHP
+229,Bachelors,2014,Pune,27,5,3,"['Creativity', 'Persuasion', 'Critical thinking', 'Networking']",Java
+230,Bachelors,2013,Pune,24,2,7,"['Time management', 'Flexibility', 'Critical assessment skills']","Java, Ruby on Rails"
+231,Bachelors,2014,Pune,24,2,5,"['Empathy', 'Organization', 'Presentation skills']","Python, Django"
+232,PHD,2015,New Delhi,25,3,1,"['Team management', 'Adaptability to change', 'Presentation skills']",
+233,Bachelors,2014,Bangalore,26,4,6,"['Time management', 'Team management', 'Networking', 'Problem-solving', 'Motivation', 'Interpersonal communication']","JavaScript, Django"
+234,Bachelors,2018,Bangalore,24,2,2,"['Emotional intelligence', 'Strategic thinking', 'Decision-making', 'Empathy', 'Organization']",
+235,Masters,2015,Pune,25,3,4,"['Teamwork', 'Assertiveness', 'Decision-making', 'Emotional intelligence']","C #, Django"
+236,Bachelors,2015,Bangalore,24,2,1,"['Leadership', 'Creativity', 'Empathy', 'Teamwork']",JavaScript
+237,Bachelors,2014,New Delhi,24,2,5,"['Time management', 'Empathy', 'Teamwork', 'Critical thinking', 'Team management', 'Decision-making']","C #, Ruby on Rails"
+238,Masters,2017,Bangalore,26,4,8,"['Problem-solving', 'Persuasion', 'Data analysis', 'Critical thinking', 'Organization']","Ruby, Spring"
+239,Bachelors,2012,New Delhi,28,1,5,"['Networking', 'Creativity', 'Teamwork', 'Strategic thinking']",Java
+240,Masters,2017,Pune,26,4,7,"['Leadership', 'Problem-solving', 'Assertiveness', 'Project management', 'Team management', 'Empathy']",Python
+241,Bachelors,2016,Pune,25,3,2,"['Strategic thinking', 'Team management', 'Flexibility']",Ruby
+242,Bachelors,2017,New Delhi,24,2,4,"['Creativity', 'Organization', 'Ability to work in a diverse environment']","Ruby, Spring"
+243,Bachelors,2013,Pune,28,3,5,"['Stress management', 'Negotiation', 'Networking', 'Creativity', 'Presentation skills']",PHP
+244,Bachelors,2014,Bangalore,25,3,3,"['Conflict management', 'Creativity', 'Motivation', 'Stress management', 'Project management', 'Interpersonal communication']","Java, Ang"
+245,Bachelors,2014,Bangalore,25,3,6,"['Change management', 'Team management', 'Organization']","Ruby, Spring"
+246,Bachelors,2014,Pune,24,2,6,"['Flexibility', 'Emotional intelligence', 'Collaboration']",C #
+247,Bachelors,2015,Bangalore,28,2,3,"['Listening skills', 'Critical assessment skills', 'Flexibility']",PHP
+248,Bachelors,2015,Bangalore,27,5,5,"['Conflict management', 'Interpersonal communication', 'Problem-solving', 'Collaboration']","SQL, Ang"
+249,Bachelors,2016,Pune,26,4,6,"['Critical thinking', 'Critical assessment skills', 'Motivation', 'Flexibility']",C #
+250,Masters,2015,New Delhi,26,4,3,"['Time management', 'Adaptability to change', 'Collaboration', 'Critical assessment skills', 'Organization', 'Presentation skills']","JavaScript, Ang"
+251,Bachelors,2016,Bangalore,28,2,3,"['Stress management', 'Collaboration', 'Ability to work in a diverse environment', 'Persuasion', 'Leadership', 'Problem-solving']","JavaScript, Spring"
+252,Bachelors,2014,Bangalore,25,3,4,"['Collaboration', 'Change management', 'Networking', 'Data analysis']",Java
+253,Bachelors,2014,Bangalore,27,5,5,"['Teamwork', 'Networking', 'Persuasion']",##TML
+254,Bachelors,2017,Bangalore,28,2,7,"['Organization', 'Presentation skills', 'Risk management', 'Motivation']","JavaScript, Spring"
+255,Masters,2018,New Delhi,24,2,5,"['Time management', 'Strategic thinking', 'Adaptability to change', 'Change management', 'Team management', 'Problem-solving']",C #
+256,Bachelors,2017,Pune,25,3,4,"['Empathy', 'Decision-making', 'Negotiation', 'Adaptability to change', 'Stress management']","Java, Django"
+257,Bachelors,2018,Pune,24,2,7,"['Ability to work in a diverse environment', 'Interpersonal communication', 'Motivation', 'Strategic thinking']",##L
+258,Masters,2017,New Delhi,28,1,1,"['Motivation', 'Empathy', 'Interpersonal communication']",JavaScript
+259,Bachelors,2013,New Delhi,27,5,5,"['Decision-making', 'Team management', 'Flexibility', 'Adaptability to change', 'Assertiveness']","PHP, Djan"
+260,Bachelors,2017,New Delhi,27,5,2,"['Organization', 'Problem-solving', 'Networking', 'Stress management']","JavaScript, Django"
+261,Bachelors,2017,Bangalore,28,1,2,"['Listening skills', 'Adaptability to change', 'Risk management', 'Motivation']","##TML, Djan"
+262,Bachelors,2016,Pune,27,5,1,"['Adaptability to change', 'Ability to work in a diverse environment', 'Project management']",C #
+263,Masters,2018,Bangalore,24,2,3,"['Persuasion', 'Creativity', 'Listening skills', 'Motivation']","##L, Ruby on Rails"
+264,Bachelors,2012,Pune,26,4,4,"['Project management', 'Organization', 'Emotional intelligence', 'Networking', 'Leadership', 'Ability to work in a diverse environment']",PHP
+265,Bachelors,2016,Bangalore,26,4,6,"['Adaptability to change', 'Empathy', 'Strategic thinking', 'Critical assessment skills', 'Assertiveness', 'Ability to work in a diverse environment']",JavaScript
+266,Masters,2016,New Delhi,27,5,6,"['Stress management', 'Data analysis', 'Listening skills']",Java
+267,Bachelors,2015,New Delhi,26,4,6,"['Listening skills', 'Collaboration', 'Interpersonal communication']",Angular
+268,Bachelors,2012,Bangalore,27,5,5,"['Strategic thinking', 'Critical assessment skills', 'Presentation skills']",Ruby
+269,Bachelors,2013,Bangalore,24,2,5,"['Ability to work in a diverse environment', 'Assertiveness', 'Interpersonal communication']",S
+270,Bachelors,2018,Bangalore,26,4,6,"['Ability to work in a diverse environment', 'Creativity', 'Motivation', 'Data analysis', 'Organization', 'Critical assessment skills']","JavaScript, Django"
+271,Masters,2017,Pune,26,4,8,"['Risk management', 'Assertiveness', 'Networking', 'Motivation']",Ruby
+272,Masters,2017,New Delhi,28,2,3,"['Flexibility', 'Negotiation', 'Strategic thinking', 'Critical thinking']",Java
+273,Bachelors,2013,Pune,28,1,5,"['Conflict management', 'Change management', 'Data analysis', 'Motivation', 'Strategic thinking', 'Emotional intelligence']",PHP
+274,Masters,2013,New Delhi,25,3,1,"['Networking', 'Project management', 'Change management', 'Persuasion']","SQL, Django"
+275,Bachelors,2018,Bangalore,28,1,2,"['Assertiveness', 'Negotiation', 'Presentation skills']",JavaScript
+276,Bachelors,2013,Pune,27,5,2,"['Teamwork', 'Project management', 'Negotiation', 'Time management', 'Persuasion']","PHP, D"
+277,Bachelors,2012,Bangalore,25,3,3,"['Conflict management', 'Networking', 'Teamwork', 'Adaptability to change', 'Interpersonal communication']","JavaScript, Ruby on Rails"
+278,Bachelors,2014,Bangalore,28,1,6,"['Team management', 'Organization', 'Time management', 'Critical assessment skills', 'Motivation']",JavaScript
+279,Bachelors,2017,New Delhi,28,3,1,"['Negotiation', 'Empathy', 'Critical assessment skills']","JavaScript, Spring"
+280,Masters,2017,New Delhi,28,2,2,"['Networking', 'Presentation skills', 'Team management', 'Time management', 'Persuasion']",PHP
+281,Bachelors,2014,Bangalore,25,3,2,"['Project management', 'Leadership', 'Negotiation', 'Critical assessment skills']",
+282,Masters,2017,New Delhi,26,4,2,"['Motivation', 'Organization', 'Creativity', 'Critical thinking', 'Critical assessment skills', 'Decision-making']","JavaScript, Django"
+283,Bachelors,2015,Pune,25,3,1,"['Emotional intelligence', 'Team management', 'Data analysis', 'Empathy']","JavaScript, Ruby on Rails"
+284,Masters,2013,New Delhi,27,5,8,"['Creativity', 'Strategic thinking', 'Flexibility', 'Interpersonal communication', 'Critical thinking', 'Persuasion']",Ruby
+285,PHD,2014,Bangalore,24,2,4,"['Decision-making', 'Teamwork', 'Empathy', 'Organization']",S
+286,Masters,2017,New Delhi,27,5,7,"['Persuasion', 'Risk management', 'Motivation', 'Ability to work in a diverse environment']",SQL
+287,Bachelors,2018,Bangalore,26,4,3,"['Decision-making', 'Presentation skills', 'Critical assessment skills', 'Emotional intelligence', 'Critical thinking', 'Networking']","JavaScript, Ruby on Rails"
+288,Bachelors,2012,Bangalore,26,4,8,"['Strategic thinking', 'Interpersonal communication', 'Assertiveness', 'Motivation', 'Critical thinking', 'Organization']",C #
+289,Masters,2015,Pune,27,5,6,"['Stress management', 'Data analysis', 'Teamwork']",PHP
+290,Bachelors,2018,Bangalore,26,4,7,"['Stress management', 'Strategic thinking', 'Adaptability to change', 'Empathy', 'Persuasion']",##L
+291,Bachelors,2016,Bangalore,24,2,7,"['Listening skills', 'Risk management', 'Organization', 'Leadership', 'Persuasion', 'Decision-making']",C #
+292,Masters,2017,New Delhi,25,3,4,"['Time management', 'Motivation', 'Project management', 'Listening skills']","Ruby, Django"
+293,Bachelors,2017,New Delhi,28,1,6,"['Empathy', 'Ability to work in a diverse environment', 'Presentation skills', 'Organization']","Java, Spring"
+294,Bachelors,2012,New Delhi,27,5,6,"['Assertiveness', 'Strategic thinking', 'Problem-solving', 'Listening skills', 'Creativity']",C #
+295,Masters,2013,New Delhi,26,4,5,"['Collaboration', 'Teamwork', 'Listening skills']",C #
+296,Bachelors,2015,Bangalore,26,4,6,"['Adaptability to change', 'Leadership', 'Organization', 'Persuasion', 'Critical assessment skills']",
+297,Bachelors,2014,Pune,28,2,3,"['Interpersonal communication', 'Motivation', 'Strategic thinking', 'Ability to work in a diverse environment', 'Conflict management', 'Time management']",Ruby
+298,Bachelors,2016,Bangalore,24,2,7,"['Stress management', 'Listening skills', 'Teamwork', 'Decision-making']","PHP, D"
+299,Bachelors,2012,Bangalore,28,3,7,"['Project management', 'Networking', 'Team management', 'Presentation skills']",SQL
+300,Bachelors,2012,Bangalore,27,5,5,"['Leadership', 'Critical thinking', 'Collaboration', 'Emotional intelligence', 'Project management']",PHP

@@ -1,0 +1,74 @@
+ID,Education,JoiningYear,City,Age,ExperienceInCurrentDomain,PersonalityType,SoftSkill,HardSkills,DistanceFromReference,AgeDifference,NormalizedDistance,NormalizedAgeDifference,Score
+36,Bachelors,2014,Bangalore,30,3,7,"['Adaptability to change', 'Motivation', 'Critical thinking', 'Problem-solving']","Java, Ruby on Rails",0.0,0,0.0,0.0,1.0
+54,Bachelors,2014,Bangalore,31,5,2,"['Presentation skills', 'Conflict management', 'Problem-solving', 'Critical assessment skills']","Java, Django",0.0,1,0.0,0.1,0.9800000000000001
+16,Bachelors,2017,Bangalore,29,3,6,"['Risk management', 'Critical thinking', 'Problem-solving']","Java, Spring",0.0,1,0.0,0.1,0.9800000000000001
+25,Bachelors,2017,Bangalore,29,4,1,"['Organization', 'Motivation', 'Conflict management', 'Problem-solving', 'Presentation skills', 'Risk management']","SQL, Django",0.0,1,0.0,0.1,0.9800000000000001
+72,Masters,2017,Bangalore,31,4,3,"['Listening skills', 'Leadership', 'Persuasion', 'Empathy', 'Stress management']","Java, Django",0.0,1,0.0,0.1,0.9800000000000001
+223,Bachelors,2018,Bangalore,28,2,1,"['Conflict management', 'Stress management', 'Listening skills', 'Motivation', 'Networking']","Python, Django",0.0,2,0.0,0.2,0.9600000000000001
+169,Bachelors,2015,Bangalore,28,3,5,"['Data analysis', 'Teamwork', 'Negotiation', 'Organization', 'Collaboration']","Java, Spring",0.0,2,0.0,0.2,0.9600000000000001
+89,Bachelors,2014,Bangalore,28,4,5,"['Presentation skills', 'Networking', 'Listening skills', 'Critical assessment skills', 'Team management']","JavaScript, Django",0.0,2,0.0,0.2,0.9600000000000001
+11,Masters,2012,Bangalore,27,5,8,"['Presentation skills', 'Creativity', 'Flexibility', 'Leadership']",Java,0.0,3,0.0,0.3,0.9400000000000001
+166,Bachelors,2014,Bangalore,27,5,5,"['Change management', 'Strategic thinking', 'Project management', 'Problem-solving', 'Stress management']","JavaScript, Django",0.0,3,0.0,0.3,0.9400000000000001
+74,Bachelors,2014,Bangalore,27,5,4,"['Motivation', 'Problem-solving', 'Flexibility', 'Team management', 'Empathy', 'Negotiation']","Java, Spring",0.0,3,0.0,0.3,0.9400000000000001
+1,Bachelors,2017,Bangalore,34,0,6,"['Networking', 'Collaboration', 'Leadership']",Java,0.0,4,0.0,0.4,0.92
+270,Bachelors,2018,Bangalore,26,4,6,"['Ability to work in a diverse environment', 'Creativity', 'Motivation', 'Data analysis', 'Organization', 'Critical assessment skills']","JavaScript, Django",0.0,4,0.0,0.4,0.92
+233,Bachelors,2014,Bangalore,26,4,6,"['Time management', 'Team management', 'Networking', 'Problem-solving', 'Motivation', 'Interpersonal communication']","JavaScript, Django",0.0,4,0.0,0.4,0.92
+96,PHD,2018,Bangalore,26,4,8,"['Motivation', 'Negotiation', 'Strategic thinking', 'Teamwork']",Java,0.0,4,0.0,0.4,0.92
+17,Bachelors,2014,Bangalore,34,2,4,"['Data analysis', 'Stress management', 'Adaptability to change', 'Critical thinking', 'Collaboration']","Ruby, Django",0.0,4,0.0,0.4,0.92
+33,Bachelors,2018,Bangalore,26,4,5,"['Strategic thinking', 'Ability to work in a diverse environment', 'Teamwork', 'Change management']",Java,0.0,4,0.0,0.4,0.92
+202,Bachelors,2014,Bangalore,25,3,2,"['Decision-making', 'Problem-solving', 'Data analysis', 'Listening skills', 'Negotiation']",Java,0.0,5,0.0,0.5,0.9
+244,Bachelors,2014,Bangalore,25,3,3,"['Conflict management', 'Creativity', 'Motivation', 'Stress management', 'Project management', 'Interpersonal communication']","Java, Ang",0.0,5,0.0,0.5,0.9
+252,Bachelors,2014,Bangalore,25,3,4,"['Collaboration', 'Change management', 'Networking', 'Data analysis']",Java,0.0,5,0.0,0.5,0.9
+44,Bachelors,2014,Bangalore,36,0,1,"['Networking', 'Collaboration', 'Presentation skills', 'Conflict management', 'Teamwork', 'Risk management']","Java, Django",0.0,6,0.0,0.6,0.8800000000000001
+41,Bachelors,2015,Bangalore,36,1,7,"['Data analysis', 'Critical thinking', 'Empathy', 'Team management']","Java, Angular",0.0,6,0.0,0.6,0.8800000000000001
+19,Bachelors,2015,Pune,30,0,8,"['Persuasion', 'Critical thinking', 'Strategic thinking']","JavaScript, Django",733.0219527570086,0,0.4231326760676575,0.0,0.8730601971797027
+77,Bachelors,2014,Bangalore,23,1,4,"['Flexibility', 'Teamwork', 'Interpersonal communication', 'Critical thinking', 'Team management', 'Critical assessment skills']","SQL, Django",0.0,7,0.0,0.7,0.8600000000000001
+78,Bachelors,2017,Bangalore,23,1,6,"['Motivation', 'Ability to work in a diverse environment', 'Presentation skills', 'Data analysis', 'Stress management', 'Networking']",Java,0.0,7,0.0,0.7,0.8600000000000001
+29,Bachelors,2013,Pune,31,2,4,"['Emotional intelligence', 'Collaboration', 'Persuasion', 'Project management', 'Negotiation', 'Presentation skills']","SQL, Django",733.0219527570086,1,0.4231326760676575,0.1,0.8530601971797028
+57,Bachelors,2016,Bangalore,38,2,2,"['Team management', 'Problem-solving', 'Collaboration']","Java, Django",0.0,8,0.0,0.8,0.8400000000000001
+88,Masters,2015,Pune,32,4,4,"['Collaboration', 'Organization', 'Flexibility']","JavaScript, Django",733.0219527570086,2,0.4231326760676575,0.2,0.8330601971797028
+79,Bachelors,2012,Bangalore,39,1,7,"['Conflict management', 'Creativity', 'Listening skills', 'Change management']","Java, Ang",0.0,9,0.0,0.9,0.8200000000000001
+229,Bachelors,2014,Pune,27,5,3,"['Creativity', 'Persuasion', 'Critical thinking', 'Networking']",Java,733.0219527570086,3,0.4231326760676575,0.3,0.8130601971797028
+76,Bachelors,2015,Bangalore,40,0,3,"['Networking', 'Strategic thinking', 'Problem-solving', 'Change management', 'Conflict management']","C #, Django",0.0,10,0.0,1.0,0.8
+150,Bachelors,2015,Pune,26,4,5,"['Team management', 'Empathy', 'Organization', 'Assertiveness']",Java,733.0219527570086,4,0.4231326760676575,0.4,0.7930601971797028
+235,Masters,2015,Pune,25,3,4,"['Teamwork', 'Assertiveness', 'Decision-making', 'Emotional intelligence']","C #, Django",733.0219527570086,5,0.4231326760676575,0.5,0.7730601971797028
+256,Bachelors,2017,Pune,25,3,4,"['Empathy', 'Decision-making', 'Negotiation', 'Adaptability to change', 'Stress management']","Java, Django",733.0219527570086,5,0.4231326760676575,0.5,0.7730601971797028
+73,Bachelors,2014,Pune,25,3,5,"['Creativity', 'Time management', 'Presentation skills', 'Listening skills']","Java, Spring",733.0219527570086,5,0.4231326760676575,0.5,0.7730601971797028
+101,Masters,2012,Pune,25,3,2,"['Organization', 'Team management', 'Assertiveness', 'Decision-making', 'Risk management']","Java, Ang",733.0219527570086,5,0.4231326760676575,0.5,0.7730601971797028
+231,Bachelors,2014,Pune,24,2,5,"['Empathy', 'Organization', 'Presentation skills']","Python, Django",733.0219527570086,6,0.4231326760676575,0.6,0.7530601971797029
+230,Bachelors,2013,Pune,24,2,7,"['Time management', 'Flexibility', 'Critical assessment skills']","Java, Ruby on Rails",733.0219527570086,6,0.4231326760676575,0.6,0.7530601971797029
+142,Bachelors,2017,Pune,24,2,3,"['Risk management', 'Teamwork', 'Decision-making', 'Persuasion', 'Team management', 'Collaboration']","Python, Django",733.0219527570086,6,0.4231326760676575,0.6,0.7530601971797029
+155,Bachelors,2016,Pune,24,2,6,"['Teamwork', 'Collaboration', 'Persuasion']","Ruby, Django",733.0219527570086,6,0.4231326760676575,0.6,0.7530601971797029
+60,Masters,2017,Pune,36,2,1,"['Time management', 'Stress management', 'Collaboration', 'Conflict management']","Ruby, Django",733.0219527570086,6,0.4231326760676575,0.6,0.7530601971797029
+86,Bachelors,2016,Pune,36,0,4,"['Adaptability to change', 'Decision-making', 'Data analysis', 'Presentation skills', 'Strategic thinking', 'Organization']","Ruby, Django",733.0219527570086,6,0.4231326760676575,0.6,0.7530601971797029
+81,Bachelors,2017,Pune,38,2,8,"['Risk management', 'Flexibility', 'Teamwork', 'Problem-solving', 'Change management']",Java,733.0219527570086,8,0.4231326760676575,0.8,0.7130601971797028
+61,Masters,2013,New Delhi,29,3,5,"['Conflict management', 'Risk management', 'Stress management', 'Teamwork', 'Strategic thinking']",Java,1732.3690516394931,1,1.0,0.1,0.68
+55,Bachelors,2017,New Delhi,31,5,8,"['Conflict management', 'Presentation skills', 'Empathy', 'Listening skills', 'Negotiation', 'Strategic thinking']",Java,1732.3690516394931,1,1.0,0.1,0.68
+239,Bachelors,2012,New Delhi,28,1,5,"['Networking', 'Creativity', 'Teamwork', 'Strategic thinking']",Java,1732.3690516394931,2,1.0,0.2,0.66
+272,Masters,2017,New Delhi,28,2,3,"['Flexibility', 'Negotiation', 'Strategic thinking', 'Critical thinking']",Java,1732.3690516394931,2,1.0,0.2,0.66
+293,Bachelors,2017,New Delhi,28,1,6,"['Empathy', 'Ability to work in a diverse environment', 'Presentation skills', 'Organization']","Java, Spring",1732.3690516394931,2,1.0,0.2,0.66
+115,Masters,2017,New Delhi,28,2,3,"['Team management', 'Empathy', 'Critical thinking', 'Change management', 'Networking', 'Negotiation']",Java,1732.3690516394931,2,1.0,0.2,0.66
+90,Masters,2012,New Delhi,32,2,4,"['Persuasion', 'Presentation skills', 'Assertiveness', 'Listening skills', 'Data analysis', 'Conflict management']",Java,1732.3690516394931,2,1.0,0.2,0.66
+181,Masters,2017,New Delhi,27,5,6,"['Persuasion', 'Empathy', 'Project management', 'Creativity', 'Negotiation']","Java, Spring",1732.3690516394931,3,1.0,0.3,0.64
+184,Masters,2017,New Delhi,27,5,4,"['Stress management', 'Strategic thinking', 'Presentation skills']",Java,1732.3690516394931,3,1.0,0.3,0.64
+47,PHD,2012,New Delhi,27,5,6,"['Team management', 'Time management', 'Risk management']",Java,1732.3690516394931,3,1.0,0.3,0.64
+266,Masters,2016,New Delhi,27,5,6,"['Stress management', 'Data analysis', 'Listening skills']",Java,1732.3690516394931,3,1.0,0.3,0.64
+141,Masters,2013,New Delhi,27,5,6,"['Flexibility', 'Decision-making', 'Time management']","Java, Ruby on Rails",1732.3690516394931,3,1.0,0.3,0.64
+260,Bachelors,2017,New Delhi,27,5,2,"['Organization', 'Problem-solving', 'Networking', 'Stress management']","JavaScript, Django",1732.3690516394931,3,1.0,0.3,0.64
+151,Bachelors,2018,New Delhi,27,5,8,"['Risk management', 'Flexibility', 'Adaptability to change', 'Networking', 'Project management']",Java,1732.3690516394931,3,1.0,0.3,0.64
+103,Masters,2017,New Delhi,26,4,5,"['Emotional intelligence', 'Adaptability to change', 'Flexibility']",Java,1732.3690516394931,4,1.0,0.4,0.62
+282,Masters,2017,New Delhi,26,4,2,"['Motivation', 'Organization', 'Creativity', 'Critical thinking', 'Critical assessment skills', 'Decision-making']","JavaScript, Django",1732.3690516394931,4,1.0,0.4,0.62
+49,Masters,2017,New Delhi,34,0,1,"['Conflict management', 'Ability to work in a diverse environment', 'Stress management', 'Team management']","Java, Ang",1732.3690516394931,4,1.0,0.4,0.62
+218,Masters,2013,New Delhi,26,4,2,"['Change management', 'Strategic thinking', 'Collaboration', 'Motivation', 'Negotiation', 'Conflict management']","Ruby, Django",1732.3690516394931,4,1.0,0.4,0.62
+51,PHD,2017,New Delhi,34,2,5,"['Adaptability to change', 'Empathy', 'Conflict management', 'Persuasion', 'Leadership', 'Networking']",Java,1732.3690516394931,4,1.0,0.4,0.62
+120,Bachelors,2017,New Delhi,25,3,8,"['Critical assessment skills', 'Presentation skills', 'Time management']","Java, Spring",1732.3690516394931,5,1.0,0.5,0.6
+123,Bachelors,2015,New Delhi,25,3,5,"['Project management', 'Time management', 'Assertiveness', 'Risk management']","Python, Django",1732.3690516394931,5,1.0,0.5,0.6
+75,Masters,2017,New Delhi,25,3,3,"['Time management', 'Risk management', 'Critical thinking']","Java, Ruby on Rails",1732.3690516394931,5,1.0,0.5,0.6
+137,Masters,2017,New Delhi,25,3,7,"['Emotional intelligence', 'Leadership', 'Project management', 'Time management', 'Presentation skills', 'Assertiveness']","Ruby, Django",1732.3690516394931,5,1.0,0.5,0.6
+274,Masters,2013,New Delhi,25,3,1,"['Networking', 'Project management', 'Change management', 'Persuasion']","SQL, Django",1732.3690516394931,5,1.0,0.5,0.6
+292,Masters,2017,New Delhi,25,3,4,"['Time management', 'Motivation', 'Project management', 'Listening skills']","Ruby, Django",1732.3690516394931,5,1.0,0.5,0.6
+94,Masters,2013,New Delhi,36,2,5,"['Stress management', 'Team management', 'Interpersonal communication', 'Strategic thinking', 'Persuasion']",Java,1732.3690516394931,6,1.0,0.6,0.5800000000000001
+163,Masters,2017,New Delhi,24,2,4,"['Empathy', 'Strategic thinking', 'Emotional intelligence', 'Organization', 'Conflict management']","Java, Django",1732.3690516394931,6,1.0,0.6,0.5800000000000001
+10,Masters,2017,New Delhi,37,2,8,"['Listening skills', 'Change management', 'Strategic thinking', 'Empathy']","Java, Django",1732.3690516394931,7,1.0,0.7,0.56
+3,Bachelors,2014,New Delhi,38,2,7,"['Negotiation', 'Team management', 'Teamwork', 'Project management']","Ruby, Django",1732.3690516394931,8,1.0,0.8,0.54
+20,Bachelors,2016,New Delhi,22,0,2,"['Problem-solving', 'Risk management', 'Flexibility', 'Data analysis', 'Conflict management', 'Teamwork']",Java,1732.3690516394931,8,1.0,0.8,0.54
